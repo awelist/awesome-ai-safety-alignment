@@ -39,6 +39,10 @@
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) – U.S. national standard for assessing AI risk.
 - [EU AI Act Summary](https://artificialintelligenceact.eu/) – Regulatory framework for high-risk and general-purpose AI systems.
 
+## Safety Frameworks
+
+- [PIC Standard](https://github.com/madeinplutofabio/pic-standard) – Causal accountability layer for agentic AI. Ensures actions are grounded in trusted provenance before execution. Fail-closed design for high-impact behaviors.
+
 ## Red Teaming & Threat Modeling
 
 - [OpenAI Red Teaming Network](https://openai.com/red-teaming-network) – Global research collaboration for model evaluations.
