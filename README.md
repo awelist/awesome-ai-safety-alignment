@@ -39,6 +39,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [OECD AI Principles](https://oecd.ai/en/ai-principles) – International standards for trustworthy AI.
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) – U.S. national standard for assessing AI risk.
 - [EU AI Act Summary](https://artificialintelligenceact.eu/) – Regulatory framework for high-risk and general-purpose AI systems.
+- [Objective Ethics for AI Alignment](https://zvolkov.github.io/oe/) – Structural alignment framework based on process coherence rather than behavioral constraint, with test suite and analyses of multi-agent topology, alignment iatrogenesis, and cross-linguistic safety failure.
 
 ## Red Teaming & Threat Modeling
 
