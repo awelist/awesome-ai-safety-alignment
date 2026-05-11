@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome AI Safety & Alignment"
+abstract: "A curated list of research papers, organizations, tools, frameworks, datasets, educational resources, and policy initiatives related to AI safety, alignment, interpretability, governance, robustness, and responsible artificial intelligence systems."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-ai-safety-alignment"
+keywords:
+  - AI safety
+  - AI alignment
+  - responsible AI
+  - artificial intelligence
+  - AI governance
+  - interpretability
+  - AI ethics
+  - robust machine learning
+  - AI policy
+  - awesome list
