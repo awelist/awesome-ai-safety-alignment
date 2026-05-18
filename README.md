@@ -88,6 +88,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Awesome AI Research Papers](https://github.com/awesomelistsio/awesome-ai-research-papers)
 - [Awesome AI Ethics](https://github.com/awesomelistsio/awesome-ai-ethics)
 - [Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance)
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ## Contribute
 
