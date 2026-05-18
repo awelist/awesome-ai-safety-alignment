@@ -39,6 +39,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [OECD AI Principles](https://oecd.ai/en/ai-principles) – International standards for trustworthy AI.
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) – U.S. national standard for assessing AI risk.
 - [EU AI Act Summary](https://artificialintelligenceact.eu/) – Regulatory framework for high-risk and general-purpose AI systems.
+- [The Integrity Framework](https://theintegrityframework.org/framework/v1) – Public CC BY 4.0 standard for sub-enterprise AI tool trustworthiness, where SOC 2 audits don't apply. Six pre-build vetoes plus a public INTEGRITY.md self-mapping and a tier-badged directory.
 
 ## Red Teaming & Threat Modeling
 
