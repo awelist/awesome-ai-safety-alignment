@@ -47,6 +47,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Microsoft AI Red Team](https://www.microsoft.com/en-us/security/blog/) – Methodologies for security and safety testing of AI systems.
 - [AI Safety Threat Modeling](https://github.com/topics/ai-safety) – Community tools and docs for threat analysis.
 - [LLM Jailbreak Prompts Datasets](https://github.com/topics/jailbreak-prompts) – Collections of adversarial prompts for robustness testing.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – MCP server for AI agent identity verification and trust scoring on Solana. Verifies agent wallet identity and behavioral signals to prevent impersonation attacks in multi-agent pipelines.
 
 ## Evaluation & Benchmarks
 
