@@ -56,6 +56,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Red Teaming Benchmarks](https://github.com/topics/llm-evaluation) – Community-driven safety evaluations.
 - [ToxiGen](https://github.com/microsoft/Counterfit/) – Datasets for evaluating harmful or toxic outputs.
 - [SafetyBench](https://github.com/centerforaisafety/SafetyBench) – Benchmark framework for AI safety scenarios.
+- [RHOB (Reward Hacking Onset Benchmark)](https://github.com/Aarav500/rhob) – Matched-proxy environment benchmark across 14 reward-hacking mechanisms with a 30-detector suite and cross-family transfer analysis.
 
 ## Model Governance & Policy
 
