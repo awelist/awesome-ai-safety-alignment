@@ -53,6 +53,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Evaluation & Benchmarks
 
+- **[agentest](https://github.com/srpadmanabhuni/agentest)** – Offline, deterministic agentic evals for AI agents: 165 tests, no LLM judge.
 - [HELM](https://crfm.stanford.edu/helm/latest/) – Holistic evaluation of language models across safety and risk domains.
 - [Anthropic Evaluations](https://github.com/anthropics/evals) – Safety evaluations for frontier models.
 - [OpenAI Evals](https://github.com/openai/evals) – Framework for testing model safety, reasoning, and reliability.
